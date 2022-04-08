@@ -9,7 +9,7 @@ body {
 }
 
 em {
-	color: #999;
+	font-weight: bold;
 }
 
 p {
